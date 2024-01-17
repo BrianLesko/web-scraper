@@ -3,3 +3,4 @@ __pycache__
 envv
 .DS_Store
 ```
+.streamlit/config.toml
